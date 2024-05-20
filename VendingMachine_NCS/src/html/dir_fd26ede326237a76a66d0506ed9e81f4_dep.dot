@@ -1,0 +1,11 @@
+digraph "/home/andre/Secretária/VendingMachine_Andre84911/VendingMachine_NCS/src"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_3e48d9c20554e46d2b60df5e9b8f408a {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", style="filled,dashed,", label="VendingMachine_NCS", fontname="Helvetica", fontsize="10", URL="dir_3e48d9c20554e46d2b60df5e9b8f408a.html"]
+  dir_fd26ede326237a76a66d0506ed9e81f4 [shape=box, label="src", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_fd26ede326237a76a66d0506ed9e81f4.html"];
+  }
+}
